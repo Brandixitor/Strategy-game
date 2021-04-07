@@ -5,7 +5,7 @@ public class CameraController : MonoBehaviour
     public float panSpeed = 20f;
     public float panBoarderThickness = 10f;
 
-    // Update is called once per frame
+    // Moving the camera using the mouse / ZSQD
     void Update()
     {
         Vector3 pos = transform.position;
