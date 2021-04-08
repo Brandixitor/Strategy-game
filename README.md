@@ -8,6 +8,9 @@ Project started, from scratch, on 07/04/2021 by Brandixitor.
               Fixed a bug where the camera should not cross the boarder of the game map. </br>
               Added a Mouse ScrollWheel to zoom in and out. </br>
 
+- 08/04/2021:  V0.1 </br>
+              Started working on scriptable objects and units data. </br>
+
 # Next updates:
 - Scriptable objects. </br>
 - Unit control. </br>
