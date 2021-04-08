@@ -16,5 +16,8 @@ Project started, from scratch, on 07/04/2021 by Brandixitor.
 - Unit control. </br>
 - Unit data. </br>
 
+# Known bugs:
+- Main camera's component stopped working. </br>
+
 # Game status:
 - Not playable yet. </br>
