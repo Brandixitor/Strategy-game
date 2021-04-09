@@ -17,7 +17,7 @@ Finished working on basic unit data. </br>
 # Next updates:
 - Scriptable objects. </br>
 - Unit control. </br>
-- Unit data. </br>
+- Unit handler. </br>
 
 # Known bugs:
 - Main camera's component stopped working. </br>
