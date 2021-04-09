@@ -10,7 +10,7 @@ namespace LP.SG.Player.Units
     {
         public enum unitType
         {
-           Villager,
+           Worker,
            Warrior,
            TBA1,
            TBA2
