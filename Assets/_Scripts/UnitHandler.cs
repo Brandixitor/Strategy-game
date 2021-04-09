@@ -2,17 +2,16 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+namespace LP.SG.Player.Units
 {
-    // Start is called before the first frame update
+    public class NewBehaviourScript : MonoBehaviour
+{
+
     void Start()
     {
         
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+}
+
 }
