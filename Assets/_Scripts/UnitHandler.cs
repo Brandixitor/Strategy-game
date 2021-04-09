@@ -6,7 +6,7 @@ namespace LP.SG.Player.Units
 {
     public class UnitHandler : MonoBehaviour
     {
-    Unit _unit;
+    public Unit _unit;
 
     void Start()
     {
