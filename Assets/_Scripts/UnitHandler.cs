@@ -8,9 +8,11 @@ namespace LP.SG.Player.Units
     {
     public Unit _unit;
 
+    public transform workers;
+
     void Start()
     {
-        GameObject unit = Instantiate(_unit.unitPrefab, tramsform.position, Quaternion.identity);
+        GameObject unit = Instantiate(_unit.unitPrefab, transform.position, Quaternion.identity, workers);
     }
 
     }
