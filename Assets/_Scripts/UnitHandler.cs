@@ -6,10 +6,11 @@ namespace LP.SG.Player.Units
 {
     public class NewBehaviourScript : MonoBehaviour
 {
+    Unit _unit;
 
     void Start()
     {
-        
+        GameObject unit = Instantiate(_unit.unitPrefab, tramsform.position, Quaternion.identity);
     }
 
 }
