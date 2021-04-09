@@ -20,6 +20,7 @@ Finished working on basic unit data. </br>
 - Unit handler. </br>
 
 # Known bugs:
+- Assets\_Scripts\UnitHandler.cs(11,12): error CS0246 </br>
 - Main camera's component stopped working. </br>
 
 # Game status:
