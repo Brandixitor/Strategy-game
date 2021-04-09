@@ -4,8 +4,8 @@ using UnityEngine;
 
 namespace LP.SG.Player.Units
 {
-    public class NewBehaviourScript : MonoBehaviour
-{
+    public class UnitHandler : MonoBehaviour
+    {
     Unit _unit;
 
     void Start()
@@ -13,6 +13,6 @@ namespace LP.SG.Player.Units
         GameObject unit = Instantiate(_unit.unitPrefab, tramsform.position, Quaternion.identity);
     }
 
-}
+    }
 
 }
