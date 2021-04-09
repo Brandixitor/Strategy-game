@@ -1,0 +1,5 @@
+C:\Users\medsa\OneDrive\Desktop\Development\Games\Strategy game\Assets\_scripts\obj\Debug\net5.0\_scripts.csprojAssemblyReference.cache
+C:\Users\medsa\OneDrive\Desktop\Development\Games\Strategy game\Assets\_scripts\obj\Debug\net5.0\_scripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medsa\OneDrive\Desktop\Development\Games\Strategy game\Assets\_scripts\obj\Debug\net5.0\_scripts.AssemblyInfoInputs.cache
+C:\Users\medsa\OneDrive\Desktop\Development\Games\Strategy game\Assets\_scripts\obj\Debug\net5.0\_scripts.AssemblyInfo.cs
+C:\Users\medsa\OneDrive\Desktop\Development\Games\Strategy game\Assets\_scripts\obj\Debug\net5.0\_scripts.csproj.CoreCompileInputs.cache

@@ -10,13 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 0}
-  m_Name: New Unit
+  m_Name: playerWorker
   m_EditorClassIdentifier: Assembly-CSharp:LP.SG.Player.Units:NewBehaviourScript
-  isPlayerUnit: 0
+  isPlayerUnit: 1
   type: 0
-  name: 
-  unitPrefab: {fileID: 0}
-  cost: 0
-  attack: 0
-  health: 0
+  name: David
+  unitPrefab: {fileID: 764346176902113773, guid: dde4d7e81410db946b82830cf74c6925,
+    type: 3}
+  cost: 50
+  attack: 10
+  health: 20
   armor: 0
