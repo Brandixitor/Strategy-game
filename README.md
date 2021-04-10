@@ -11,6 +11,9 @@ Project started, from scratch, on 07/04/2021 by Brandixitor.
 - 08/04/2021:  V0.1 </br>
               Started working on scriptable objects and units data. </br>
 
+- 10/04/2021:  V0.2 </br>
+              Added a minimap to the game. </br>
+
 - 09/04/2021:  V0.2 </br>
 Finished working on basic unit data. </br>
 
@@ -18,7 +21,6 @@ Finished working on basic unit data. </br>
 - Scriptable objects. </br>
 - Unit control. </br>
 - Unit handler. </br>
-- Minimap. </br>
 
 # Known bugs:
 - Assets\_Scripts\UnitHandler.cs(11,12): error CS0246 </br>
