@@ -1,20 +1,20 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿// using System.Collections;
+// using System.Collections.Generic;
+// using UnityEngine;
 
-namespace LP.SG.Player.Units
-{
-    public class UnitHandler : MonoBehaviour
-    {
-    public Unit _unit;
+// namespace LP.SG.Player.Units
+// {
+//     public class UnitHandler : MonoBehaviour
+//     {
+//     public Unit _unit;
 
-    public transform workers;
+//     public transform workers;
 
-    void Start()
-    {
-        GameObject unit = Instantiate(_unit.unitPrefab, transform.position, Quaternion.identity, workers);
-    }
+//     void Start()
+//     {
+//         GameObject unit = Instantiate(_unit.unitPrefab, transform.position, Quaternion.identity, workers);
+//     }
 
-    }
+//     }
 
-}
+// }

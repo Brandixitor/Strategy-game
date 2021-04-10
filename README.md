@@ -18,6 +18,7 @@ Finished working on basic unit data. </br>
 - Scriptable objects. </br>
 - Unit control. </br>
 - Unit handler. </br>
+- Minimap. </br>
 
 # Known bugs:
 - Assets\_Scripts\UnitHandler.cs(11,12): error CS0246 </br>
