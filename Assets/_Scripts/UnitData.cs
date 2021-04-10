@@ -12,8 +12,7 @@ namespace LP.SG.Player.Units
         {
            Worker,
            Warrior,
-           TBA1,
-           TBA2
+           TBA1
         };
         
         public bool isPlayerUnit;
