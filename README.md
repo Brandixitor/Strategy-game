@@ -11,11 +11,12 @@ Project started, from scratch, on 07/04/2021 by Brandixitor.
 - 08/04/2021:  V0.1 </br>
               Started working on scriptable objects and units data. </br>
 
-- 10/04/2021:  V0.2 </br>
-              Added a minimap to the game. </br>
 
 - 09/04/2021:  V0.2 </br>
 Finished working on basic unit data. </br>
+
+- 10/04/2021:  V0.3 </br>
+              Added a minimap to the game. </br>
 
 # Next updates:
 - Scriptable objects. </br>
